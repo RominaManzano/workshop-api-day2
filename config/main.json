@@ -1,0 +1,11 @@
+{
+	"enviroment": "staging",
+	"default_page_size": 10,
+	"expirations": {
+		"confirmationEmail": 86400,
+		"token": 86400,
+		"forgoPassword": 3600
+	},
+	"frontUrl": "",
+	"backUrl": ""
+}

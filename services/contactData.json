@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "name": "Macarena",
+      "email": "makigom@gmail.com",
+      "message": "Esto es una prueba"
+    },
+    {
+      "name": "Romina",
+      "email": "romina.manzano@gmail.com",
+      "message": "Esto es una prueba"
+    },
+    {
+      "name": "Santi",
+      "email": "santi@gmail.com",
+      "message": "Prueba prueba"
+    },
+    {
+      "name": "juan",
+      "email": "Juan@lalala.com",
+      "message": "hola prueba"
+    },
+    {
+      "name": "Bruno",
+      "email": "bruno@mininno.com",
+      "message": "esto es una prueba",
+      "date": "2019-01-31T21:07:39.294Z"
+    }
+  ]
+}
